@@ -1,4 +1,4 @@
-# Nangka - theme for jekyll
+# theme for jekyll
 Just simple theme for your jekyll blog, based on default Jekyll theme.
 
 ### Feature
@@ -12,19 +12,9 @@ Just simple theme for your jekyll blog, based on default Jekyll theme.
 - [x] **Ads**
 - [x] **Share Button**
 
-### [View Demo](http://rmsubekti.github.io/nangka)
+### [View Demo](http://201419.github.io/)
 
-### Run this theme on your local machine
-To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
+You can change the site configuration in the [`_config.yml`](https://github.com/rmsubekti/nangka/blob/master/_config.yml) file.
 
-```
-git clone git@github.com:rmsubekti/nangka.git
-cd nangka
-bundle install
-bundle exec jekyll s
-```
-
-You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/nangka/blob/master/_config.yml) file.
-
-License : [MIT](https://github.com/rmsubekti/nangka/blob/master/LICENSE.md)
+License : [MIT](https://github.com/201419/201419.github.io/blob/master/LICENSE.md)
 Feel free to fork, change, modify and re-use it.

@@ -1,0 +1,43 @@
+---
+layout: post
+title: 研究生学习资源
+date: 2018-11-22 10:10:10 +0300
+categories: NLP
+---
+
+**自然语言处理**
+- [深度 | 一文概述2017年深度学习NLP重大进展与趋势（机器之心）](https://mp.weixin.qq.com/s/acCd1G1wnRZtleudUKhuWA?tdsourcetag=s_pcqq_aiomsg)
+- [NLP-Progress](https://github.com/sebastianruder/NLP-progress)
+
+**CS224n： Natural Language Processing with Deep Learning**
+- [课程主页](https://web.stanford.edu/class/cs224n/)
+- [教学大纲（含课件）](https://web.stanford.edu/class/cs224n/syllabus.html)
+- [GitHub资料地址](https://github.com/learning511/cs224n-learning-camp)
+- [CS224n中文笔记](http://www.hankcs.com/?s=CS224n%E7%AC%94%E8%AE%B0)
+- [AI研习社课程视频（中英字幕）](http://www.mooc.ai/course/494)
+
+**深度强化学习**
+- [CS294-112 | Deep Reinforcement Learning（UC Berkeley）](http://rail.eecs.berkeley.edu/deeprlcourse/)
+
+**CMU的2018秋季DeepLearning课程**
+- URL：http://deeplearning.cs.cmu.edu/
+
+**深度学习框架**
+- [Tensorflow Tutorials zh-CN](https://tensorflow.google.cn/tutorials/?hl=zh-CN)
+- [Pytorch Tutorials](https://pytorch.org/tutorials/)
+- [Intro to Deep Learning with PyTorch（Udacity）](https://classroom.udacity.com/courses/ud188)
+- [Udacity | Deep Learning V2 Pytorch](https://github.com/udacity/deep-learning-v2-pytorch)
+- [《21个项目玩转深度学习——基于TensorFlow的实践详解》配套代码](https://github.com/hzy46/Deep-Learning-21-Examples)
+- [Natural Language Processing with Python（Analyzing Text with the Natural Language Toolkit）](https://www.nltk.org/book/)
+
+**算法学习**
+- [算法面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- [《算法导论》习题答案](https://github.com/gzc/CLRS)
+- [《算法导论》第三版中算法的C++实现](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)
+- [Algorithm on GitHub](https://github.com/topics/algorithm?l=tex&o=desc&s=stars)
+
+**Others**
+- [死磕论文前，不如先找齐一套好用的工具](https://baijiahao.baidu.com/s?id=1617078208620048130&wfr=spider&for=pc)
+- [Data Science Association](http://www.datascienceassn.org/)
+- [Short Science](http://www.shortscience.org/)
+- [Open Review](https://openreview.net/)
