@@ -6,7 +6,7 @@ categories: NLP
 ---
 
 **自然语言处理**
-- [深度 | 一文概述2017年深度学习NLP重大进展与趋势（机器之心）](https://mp.weixin.qq.com/s/acCd1G1wnRZtleudUKhuWA?tdsourcetag=s_pcqq_aiomsg)
+- [深度丨一文概述2017年深度学习NLP重大进展与趋势（机器之心）](https://mp.weixin.qq.com/s/acCd1G1wnRZtleudUKhuWA?tdsourcetag=s_pcqq_aiomsg)
 - [NLP-Progress](https://github.com/sebastianruder/NLP-progress)
 
 **CS224n： Natural Language Processing with Deep Learning**
@@ -17,7 +17,7 @@ categories: NLP
 - [AI研习社课程视频（中英字幕）](http://www.mooc.ai/course/494)
 
 **深度强化学习**
-- [CS294-112 | Deep Reinforcement Learning（UC Berkeley）](http://rail.eecs.berkeley.edu/deeprlcourse/)
+- [CS294-112丨Deep Reinforcement Learning（UC Berkeley）](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 **CMU的2018秋季DeepLearning课程**
 - URL：http://deeplearning.cs.cmu.edu/
@@ -26,7 +26,7 @@ categories: NLP
 - [Tensorflow Tutorials zh-CN](https://tensorflow.google.cn/tutorials/?hl=zh-CN)
 - [Pytorch Tutorials](https://pytorch.org/tutorials/)
 - [Intro to Deep Learning with PyTorch（Udacity）](https://classroom.udacity.com/courses/ud188)
-- [Udacity | Deep Learning V2 Pytorch](https://github.com/udacity/deep-learning-v2-pytorch)
+- [Udacity丨Deep Learning V2 Pytorch](https://github.com/udacity/deep-learning-v2-pytorch)
 - [《21个项目玩转深度学习——基于TensorFlow的实践详解》配套代码](https://github.com/hzy46/Deep-Learning-21-Examples)
 - [Natural Language Processing with Python（Analyzing Text with the Natural Language Toolkit）](https://www.nltk.org/book/)
 
