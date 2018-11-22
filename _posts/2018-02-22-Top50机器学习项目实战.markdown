@@ -1,0 +1,362 @@
+---
+layout: post
+title: Top机器学习项目
+date: 2018-02-22 11:00:22 +0300
+categories: Occupation
+---
+
+<img src="./images/201802221158.jpg"></img>
+
+【整理】机器学习项目实战 ~
+
+来自公众号 [人工智能头条](http://mp.weixin.qq.com/s/ntaJLCky2q0if2PSAXKFZQ)
+
+原文链接：
+- https://github.com/Mybridge/learn-machine-learning
+- https://medium.mybridge.co/learn-to-build-a-machine-learning-application-from-top-articles-of-2017-cdd5638453fc
+
+根据《纽约时报》的说法，“在硅谷招募机器学习工程师、数据科学家的情形，越来越像NFL选拔职业运动员，没有苛刻的训练很难上场了。”毕竟，高达124472美元的平均年薪可不是谁想挣就能挣到的。
+
+正如职业运动员每天都要训练一样，机器学习的日常练习也是工程师生涯得以大踏步前进的基本保障。仅2017年一年，机器学习领域总结此类实战经验的文章便已超过20000篇，该领域相关职位的热度自是可见一斑。
+
+下面是从中筛选出的50篇最好的经验和心得，囊括了机器学习在15大细分领域的各项典型应用。
+
+这之前先给出两个课程学习网站。而对具体的实战经验，接下来我们分领域一一来看。
+- [Udemy](https://www.udemy.com/)
+- [网易云课堂](https://study.163.com/category/AI)
+
+---
+
+* 
+{:toc}
+
+---
+
+## 图像处理
+
+1、High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs
+
+- GitHub：https://github.com/NVIDIA/pix2pixHD
+- 论文：https://arxiv.org/abs/1711.11585
+- 博客：https://tcwang0509.github.io/pix2pixHD/
+
+2、Using Deep Learning to Create Professional-Level Photographs
+
+- GitHub：https://github.com/google/creatism
+- 论文：https://arxiv.org/abs/1707.03491
+- 博客：https://research.googleblog.com/2017/07/using-deep-learning-to-create.html
+
+3、High Dynamic Range (HDR) Imaging using OpenCV (Python)
+
+- 项目：https://www.learnopencv.com/high-dynamic-range-hdr-imaging-using-opencv-cpp-python/
+- 课程主页：https://courses.learnopencv.com/p/opencv-for-beginners
+
+
+## 风格迁移
+
+4、Visual Attribute Transfer through Deep Image Analogy
+
+- GitHub：https://github.com/msracver/Deep-Image-Analogy
+- 论文：https://arxiv.org/abs/1705.01088
+
+5、Deep Photo Style Transfer
+
+- GitHub：https://github.com/luanfujun/deep-photo-styletransfer
+- 论文：https://arxiv.org/abs/1703.07511
+
+6、Deep Image Prior
+
+GitHub：https://github.com/DmitryUlyanov/deep-image-prior
+- 论文：https://arxiv.org/abs/1711.10925
+- 博客：https://dmitryulyanov.github.io/deep_image_prior
+
+
+## 图像分类
+
+7、Feature Visualization: How neural networks build up their understanding of images.
+
+- 论文：https://distill.pub/2017/feature-visualization/
+- 代码：https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
+- 博客：https://colah.github.io/
+
+8、An absolute beginner’s guide to Image Classification with Neural Networks
+
+- Github【4491收藏】：https://github.com/humphd/have-fun-with-machine-learning
+- 中文版：https://github.com/humphd/have-fun-with-machine-learning/blob/master/README_zh-tw.md
+
+9、Background removal with deep learning
+
+- 模型：https://towardsdatascience.com/background-removal-with-deep-learning-c4f2104b3157
+- 部署：https://medium.com/@burgalon/deploying-your-keras-model-35648f9dc5fb
+
+
+
+## 面部识别
+
+10、Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric CNN Regression
+
+- GitHub：https://github.com/AaronJackson/vrn
+- 论文：https://arxiv.org/abs/1703.07834
+- 博客：http://aaronsplace.co.uk/papers/jackson2017recon/
+- Demo：http://cvl-demos.cs.nott.ac.uk/vrn/
+
+11、Eye blink detection with OpenCV, Python, and dlib
+
+- 项目：https://www.pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+- 论文：http://vision.fe.uni-lj.si/cvww2016/proceedings/papers/05.pdf
+
+12、DEAL WITH IT in Python with Face Detection
+
+- GitHub：https://github.com/burningion/automatic-memes
+- 博客：https://www.makeartwithpython.com/blog/deal-with-it-generator-face-recognition/
+
+
+## 视频稳像
+
+13、Fused Video Stabilization on the Pixel 2 and Pixel 2 XL
+
+- 博客：https://research.googleblog.com/2017/11/fused-video-stabilization-on-pixel-2.html
+- 测评：https://www.dxomark.com/google-pixel-2-reviewed-sets-new-record-smartphone-camera-quality/
+
+
+## 目标检测
+
+14、How HBO’s Silicon Valley built “Not Hotdog” with mobile TensorFlow and Keras
+
+- 博客：https://medium.com/@timanglade/how-hbos-silicon-valley-built-not-hotdog-with-mobile-tensorflow-keras-react-native-ef03260747f3
+- 项目：https://github.com/kmather73/NotHotdog-Classifier
+
+15、Object detection: an overview in the age of Deep Learning
+
+- GitHub：https://github.com/tryolabs/luminoth
+- 论文：https://tryolabs.com/blog/2017/08/30/object-detection-an-overview-in-the-age-of-deep-learning/
+
+16、How to train your own Object Detector with TensorFlow’s Object Detector API
+
+- 博客：https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9
+- 数据集：https://github.com/datitran/raccoon_dataset
+- 产品化：https://towardsdatascience.com/building-a-real-time-object-recognition-app-with-tensorflow-and-opencv-b7a2b4ebdc32
+- 产品代码：https://github.com/datitran/object_detector_app
+
+17、Real-time object detection with deep learning and OpenCV
+
+- 实战：https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
+- 入门：
+- https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
+- https://www.pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/
+- https://www.pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
+
+
+## 自动驾驶
+
+18、Self-driving Grand Theft Auto V with Python : Intro [Part I]
+
+- GitHub：https://github.com/sentdex/pygta5
+- 视频：https://www.youtube.com/playlist?list=PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a
+- 博客：https://pythonprogramming.net/game-frames-open-cv-python-plays-gta-v/
+
+19、Recognizing Traffic Lights With Deep Learning: How I learned deep learning in 10 weeks and won $5,000
+
+- GitHub：https://github.com/davidbrai/deep-learning-traffic-lights
+- 博客：https://medium.freecodecamp.org/recognizing-traffic-lights-with-deep-learning-23dae23287cc
+- 相关比赛：https://www.getnexar.com/challenge-1/
+
+
+## 推荐系统
+
+20、Spotify’s Discover Weekly: How machine learning finds your new music
+
+- 实战：https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
+- 演讲：https://www.youtube.com/watch?v=A259Yo8hBRs
+- 相关博客：
+- http://benanne.github.io/2014/08/05/spotify-cnns.html
+- https://notes.variogr.am/2012/12/11/how-music-recommendation-works-and-doesnt-work/
+
+21、Artwork Personalization at Netflix
+
+- 博客：https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76
+- 论文：https://arxiv.org/abs/1003.5956
+- 原理介绍：http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html
+
+
+## AI游戏
+
+22、MariFlow — Self-Driving Mario Kart w/Recurrent Neural Network
+
+- 项目文档：https://docs.google.com/document/d/1p4ZOtziLmhf0jPbZTTaFxSKdYqE91dYcTNqTVdd6es4
+- 视频：https://www.youtube.com/watch?v=Ipi40cb_RsI
+
+23、OpenAI Baselines: DQN
+
+- GitHub：https://github.com/openai/baselines
+- 项目主页：https://blog.openai.com/openai-baselines-dqn/
+
+24、Reinforcement Learning on Dota 2 [Part II]
+
+- 博客：https://blog.openai.com/more-on-dota-2/
+- 视频：https://openai.com/the-international/
+
+25、Creating an AI DOOM bot
+
+- 博客：https://www.codelitt.com/blog/doom-ai/
+- 工具：http://vizdoom.cs.put.edu.pl/
+
+26、Phase-Functioned Neural Networks for Character Control
+
+- 博客：http://theorangeduck.com/page/phase-functioned-neural-networks-character-control
+- 代码：http://theorangeduck.com/media/uploads/other_stuff/pfnn.zip
+- 论文：http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf
+- 视频：http://theorangeduck.com/media/uploads/other_stuff/phasefunction.mov
+
+27、The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI
+
+- 论文：https://arxiv.org/abs/1702.05663
+- 视频：https://www.youtube.com/playlist?list=PLegUCwsQzmnUpPwVv8ygMa19zNnDgJ6OC
+
+28、Introducing: Unity Machine Learning Agents
+
+- GitHub：https://github.com/Unity-Technologies/ml-agents
+- 博客：https://blogs.unity3d.com/cn/2017/09/19/introducing-unity-machine-learning-agents/
+- 文档：https://github.com/Unity-Technologies/ml-agents/tree/master/docs
+
+
+## AI棋手
+
+29、Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm
+
+- 论文：https://arxiv.org/abs/1712.01815
+- 演讲：http://ktiml.mff.cuni.cz/~bartak/ui_seminar/talks/2017ZS/KarelHa_AlphaZero.pdf
+- 模型：https://deepmind.com/research/alphago/alphazero-resources/
+- 相关实现：https://github.com/mokemokechicken/reversi-alpha-zero
+https://web.stanford.edu/~surag/posts/alphazero.html
+
+30、AlphaGo Zero: Learning from scratch
+
+- 博客：https://deepmind.com/blog/alphago-zero-learning-scratch/
+- 论文：https://deepmind.com/documents/119/agz_unformatted_nature.pdf
+- 棋谱：http://www.alphago-games.com/
+
+31、How Does DeepMind’s AlphaGo Zero Work?
+
+- GitHub：https://github.com/llSourcell/alphago_demo
+- 视频：https://www.youtube.com/watch?v=vC66XFoN4DE
+
+32、A step-by-step guide to building a simple chess AI
+
+- GitHub：https://github.com/lhartikk/simple-chess-ai
+- 博客：https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977
+- Wiki：https://chessprogramming.wikispaces.com/
+
+
+## AI医疗
+
+33、CheXNet: Radiologist-Level Pneumonia Detection on Chest X-Rays with Deep Learning
+
+- 项目主页：https://stanfordmlgroup.github.io/projects/chexnet/
+- 论文：https://arxiv.org/abs/1711.05225
+- 博客：https://lukeoakdenrayner.wordpress.com/2017/11/18/quick-thoughts-on-chestxray14-performance-claims-and-clinical-tasks/
+
+34、Can you improve lung cancer detection? 2nd place solution for the Data Science Bowl 2017
+
+- Kaggle：https://www.kaggle.com/c/data-science-bowl-2017
+- GitHub：https://github.com/dhammack/DSB2017/
+- 博客：http://juliandewit.github.io/kaggle-ndsb2017/
+
+35、Improving Palliative Care with Deep Learning
+
+- 项目主页：https://stanfordmlgroup.github.io/projects/improving-palliative-care/
+- 论文：https://arxiv.org/abs/1711.06402
+
+36、Heart Disease Diagnosis with Deep Learning
+
+- GitHub：https://github.com/chuckyee/cardiac-segmentation
+- 博客：https://blog.insightdatascience.com/heart-disease-diagnosis-with-deep-learning-c2d92c27e730
+- 文章：https://chuckyee.github.io/cardiac-segmentation/
+
+
+## AI语音
+
+37、Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model 
+
+- GitHub：https://github.com/Kyubyong/tacotron
+- 论文：https://arxiv.org/abs/1703.10135
+- 项目主页：https://google.github.io/tacotron/
+
+38、Sequence Modeling with CTC
+
+- GitHub：https://github.com/awni/speech
+- 论文：https://distill.pub/2017/ctc/
+
+39、Deep Voice: Real-time Neural Text-to-Speech
+ 
+- GitHub：https://github.com/israelg99/deepvoice
+- 论文：https://arxiv.org/abs/1702.07825
+- 博客：http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/
+
+40、Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis
+
+- 博客：https://machinelearning.apple.com/2017/08/06/siri-voices.html
+
+
+## AI音乐
+
+41、Computer evolves to generate baroque music!
+
+- 视频：https://www.youtube.com/watch?v=SacogDL_4JU
+- 相关博客：http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+42、Make your own music with WaveNets: Making a Neural Synthesizer Instrument
+
+- GitHub：https://github.com/tensorflow/magenta/tree/master/magenta/models/nsynth
+- 论文：https://arxiv.org/abs/1704.01279
+- 博客：https://magenta.tensorflow.org/nsynth-instrument
+
+
+## 自然语言处理
+
+43、Learning to communicate: Agents developing their own language
+
+- 博客：https://blog.openai.com/learning-to-communicate/
+- 论文：https://arxiv.org/abs/1703.04908
+
+44、Big Picture Machine Learning: Classifying Text with Neural Networks and TensorFlow
+
+- GitHub：https://github.com/dmesquita/understanding_tensorflow_nn
+- 博客：https://medium.freecodecamp.org/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274
+
+45、A novel approach to neural machine translation 
+
+- GitHub：https://github.com/facebookresearch/fairseq
+- 论文：https://arxiv.org/abs/1705.03122
+- 博客：https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation
+
+46、How to make a racist AI without really trying
+
+- Jupyter Python：https://gist.github.com/rspeer/ef750e7e407e04894cb3b78a82d66aed
+- 博客：https://blog.conceptnet.io/2017/07/13/how-to-make-a-racist-ai-without-really-trying/
+
+
+## 学习预测
+
+47、Using Machine Learning to Predict Value of Homes On Airbnb
+
+- 博客：https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d
+- 中文：https://github.com/xitu/gold-miner/blob/master/TODO/using-machine-learning-to-predict-value-of-homes-on-airbnb.md
+
+48、Engineering Uncertainty Estimation in Neural Networks for Time Series Prediction at Uber
+
+- 论文：https://arxiv.org/abs/1709.01907
+- 博客：https://eng.uber.com/neural-networks-uncertainty-estimation/
+
+49、Using Machine Learning to make parking easier
+
+- 博客：https://research.googleblog.com/2017/02/using-machine-learning-to-predict.html
+- 产品介绍：https://blog.google/products/maps/know-you-go-parking-difficulty-google-maps/
+
+50、How to Predict Stock Prices Easily — Intro to Deep Learning #7
+
+- 视频：https://www.youtube.com/watch?v=ftMq5ps503w
+- 说明：https://github.com/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo
+- GitHub：https://github.com/erilyth/DeepLearning-Challenges/tree/master/Image_Classifier
+
+
