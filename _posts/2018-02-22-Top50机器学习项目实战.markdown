@@ -5,7 +5,7 @@ date: 2018-02-22 11:00:22 +0300
 categories: Occupation
 ---
 
-<img src="./images/201802221158.jpg"></img>
+<img src="https://raw.githubusercontent.com/201419/201419.github.io/master/_posts/images/201802221158.jpg">
 
 【整理】机器学习项目实战 ~
 

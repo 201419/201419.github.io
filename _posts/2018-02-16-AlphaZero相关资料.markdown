@@ -5,7 +5,7 @@ date: 2018-02-16 19:00:22 +0300
 categories: Technology
 ---
 
-<img src="./images/20180216.jpg"></img>
+<img src="https://raw.githubusercontent.com/201419/201419.github.io/master/_posts/images/20180216.jpg">
 
 有关自己训练AlphaGo做的相关信息收集~
 
