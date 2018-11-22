@@ -20,7 +20,7 @@ categories: NLP
 - [CS294-112丨Deep Reinforcement Learning（UC Berkeley）](http://rail.eecs.berkeley.edu/deeprlcourse/)
 
 **CMU的2018秋季DeepLearning课程**
-- URL：http://deeplearning.cs.cmu.edu/
+- [Introduction to Deep Learning丨Fall 2018](http://deeplearning.cs.cmu.edu/)
 
 **深度学习框架**
 - [Tensorflow Tutorials zh-CN](https://tensorflow.google.cn/tutorials/?hl=zh-CN)
