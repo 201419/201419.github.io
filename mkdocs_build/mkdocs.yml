@@ -1,0 +1,13 @@
+site_name: My Docs
+nav:
+    - Home: index.md
+    - pages resources: 2019-05-20-PageResources.md
+    - master learn resources: 2018-11-22-研究生学习资源.md
+    - CS scientists: 2018-06-28-那些计算机科学家.md
+    - 163 music: 2018-05-14-播放量超500万的网易云音乐歌单.md
+    - ML practices: 2018-02-22-Top50机器学习项目实战.md
+    - AlphaZero: 2018-02-16-AlphaZero相关资料.md
+    - learn AI: 2018-02-11-普通程序员如何正确学习人工智能方向的知识.md
+    - resources list: 2018-02-07-resources-list.md
+    - About: about.md
+theme: readthedocs
