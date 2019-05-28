@@ -1,8 +1,13 @@
 # 网页资源链接
 
+最近在读论文
+
+- [HALP 论文](https://www.cs.cornell.edu/~cdesa/papers/arxiv2018_lpsvrg.pdf)
+- [HALP 代码](https://github.com/HazyResearch/halp)
+
 ## 分布式和优化
 
-- [Hao Yu's home page](http://www-scf.usc.edu/~yuhao/publications.html)：ICML 2019 有两篇 Parallel SGD 文章
+- [Hao Yu's home page](http://www-scf.usc.edu/~yuhao/publications.html)：**ICML 2019 有两篇 Parallel SGD 文章**
 - (NeurIPS 2018) [A Linear Speedup Analysis of Distributed Deep Learning with Sparse and Quantized Communication](https://papers.nips.cc/paper/7519-a-linear-speedup-analysis-of-distributed-deep-learning-with-sparse-and-quantized-communication.pdf)
 - (NeurIPS 2018)：[Online Adaptive Methods, Universality and Acceleration](https://papers.nips.cc/paper/7885-online-adaptive-methods-universality-and-acceleration.pdf)
 - [Non-convex Optimization for Machine Learning](https://arxiv.org/abs/1712.07897)：arXiv.org > stat > arXiv:1712.07897
@@ -11,15 +16,17 @@
 - DeepMind：[TF-Replicator: Distributed Machine Learning for Researchers](https://deepmind.com/blog/tf-replicator-distributed-machine-learning/)
 - Seb Arnold (2016)：[An Introduction to Distributed Deep Learning](http://seba1511.net/dist_blog/)
 - 斯坦福优化课程：[EE364a: Convex Optimization I](http://web.stanford.edu/class/ee364a/lectures.html)
-- 优化课程：[Introduction to Optimization Theory](http://www.aaronsidford.com/sp17_opt_theory.html) (2017) 来自斯坦福 Aaron Sidford
 - 斯坦福 Boyd 凸优化：[Convex Optimization – Boyd and Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 - 斯坦福数学优化：[Mathematical Optimization](https://web.stanford.edu/group/sisl/k12/optimization/#!index.md)
+- 优化课程：[Introduction to Optimization Theory](http://www.aaronsidford.com/sp17_opt_theory.html) (2017) 来自斯坦福 Aaron Sidford
+- 优化课程：（最近在看）[IE 598 – BIG DATA OPTIMIZATION (Fall 2016)](http://niaohe.ise.illinois.edu/IE598_2016/index.html)
 - [SVRG算法的阅读理解和实践](https://caoxiaoqing.github.io/2018/05/11/SVRG%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/)
 - [Nesterov Accelerated Gradient and Momentum](https://jlmelville.github.io/mize/nesterov.html)
 - [Optimization for Deep Learning Highlights in 2017](http://ruder.io/deep-learning-optimization-2017/)
 - 机器之心：[入门 | 目标函数的经典优化算法介绍](https://cloud.tencent.com/developer/article/1120062)
 - Yurii Nesterov：[How to advance in Structural Convex Optimization](https://pdfs.semanticscholar.org/e76b/fde9856df4d770278f43cd2d0a2c13fe0c52.pdf) `Google 搜索：How to advance in structural convex optimization`
 - Wikipedia [Rate of Convergence](https://en.wikipedia.org/wiki/Rate_of_convergence)
+- [NVIDIA — apex](https://github.com/NVIDIA/apex)：Tools for **easy mixed precision and distributed training** in Pytorch
 - [Stochastic Gradient Descent (v.2)](https://leon.bottou.org/projects/sgd)
 
 
