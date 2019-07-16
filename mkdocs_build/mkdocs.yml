@@ -1,6 +1,7 @@
 site_name: My Docs
 nav:
     - Home: index.md
+    - CV group: 2019-07-16-CV_Group.md
     - pages resources: 2019-05-20-PageResources.md
     - master learn resources: 2018-11-22-研究生学习资源.md
     - CS scientists: 2018-06-28-那些计算机科学家.md
